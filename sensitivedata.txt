@@ -1,1 +1,4 @@
  Application ID xx008xxx5K 最后一位是某种校验码，数字-1 US B1 form
+
+How to delete Chrome saved data: need to clear data, but choose All Time, and Delete Password.
+Delete Firefox password
